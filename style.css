@@ -1,0 +1,25 @@
+body {
+  background-image:url(bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+#myCanvas {
+  background-color: seashell;
+  border: double 5px skyblue;
+}
+button {
+  height: 50px;
+  font-size: 20px;
+  color: skyblue;
+  font-family: cursive;
+  border-radius: 20px;
+  background-color: seashell;
+  text-emphasis-style: bold;
+  border: 2px skyblue solid;
+}
+input {
+  font-size: 20px;
+  font-family: cursive;
+}
